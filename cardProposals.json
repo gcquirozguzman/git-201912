@@ -1,0 +1,10 @@
+{
+  "data": [
+    {
+      "grantedCredits": {
+        "maximum": 20000,
+        "minimum": 10000
+      }
+    }
+  ]
+}
